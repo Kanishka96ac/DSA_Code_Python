@@ -1,0 +1,8 @@
+
+
+push() --- Add element to the stack
+pop() --- remove the top element , And return removed element value
+peek() --- return the top element of the stack
+isEmpty() --- Boolean result (empty or not)
+isFull --- Boolean result (if maxSize =5 , then full or not)
+delete() --- Delete the stack
